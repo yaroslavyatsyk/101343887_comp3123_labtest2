@@ -68,3 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+After lunch, there will be the empty screen like that
+![image](https://user-images.githubusercontent.com/31794068/203866837-f6ce316c-3197-4fbc-b8a9-abe46dbad7ca.png)
+
+There are 6 categories, including: laptops,smartphones, groceries,home decoration, skin care, and fragrances.
+
+![image](https://user-images.githubusercontent.com/31794068/203867280-55942f68-ea73-44c4-859f-c59b14259af7.png)
+
+If you select one option from the list and press 'Enter', it should be like that
+![image](https://user-images.githubusercontent.com/31794068/203867342-0893f888-8264-4e2a-8b23-79f477b3079d.png)
+
+
+
