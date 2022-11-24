@@ -6,7 +6,7 @@ export default class ProductDetails extends Component {
   render() {
    const product = this.props.product
    return (
-      <div className="App">
+      <div className="Card">
 <Container className='p-4'>
 <Col md="8">
 <Card>

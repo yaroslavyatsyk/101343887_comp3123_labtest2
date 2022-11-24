@@ -40,3 +40,6 @@
     transform: rotate(360deg);
   }
 }
+.Card {
+  background-color: #282c34;
+}
