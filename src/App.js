@@ -36,6 +36,8 @@ function App() {
             <option value="groceries">Groceries</option>
             <option value="fragrances">Fragrances</option>
             <option value="skincare">Skin Care</option>
+            <option value="home-decoration">Home Decoration</option>
+            
             </select>
     
         <ProductList products={products}/>
