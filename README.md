@@ -77,7 +77,7 @@ There are 6 categories, including: laptops,smartphones, groceries,home decoratio
 ![image](https://user-images.githubusercontent.com/31794068/203867280-55942f68-ea73-44c4-859f-c59b14259af7.png)
 
 If you select one option from the list and press 'Enter', it should be like that
-![image](https://user-images.githubusercontent.com/31794068/203867342-0893f888-8264-4e2a-8b23-79f477b3079d.png)
+![image](https://user-images.githubusercontent.com/31794068/203872898-b42edb69-0e84-45e5-bdfd-d3873098e7d0.png)
 
 Postman
 ![image](https://user-images.githubusercontent.com/31794068/203867409-1045d391-57ad-4b11-aafe-c4c9c4698a89.png)
